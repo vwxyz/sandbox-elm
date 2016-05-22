@@ -5,6 +5,7 @@
 ```bash
 git clone git@github.com:vwxyz/sandbox-elm.git
 nvm i v6.2.0
+npm i -g switch-ssh
 npm i -g elm
 npm i
 ```
@@ -32,6 +33,9 @@ v6.2.0
 git config user.name vwxyz
 git config user.email feeddict@gmail.com
 git config --list --local
+
+# sshの鍵を切り替える
+switch-ssh -p vwxyz
 ```
 
 `direnv allow .`
