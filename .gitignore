@@ -1,0 +1,4 @@
+node_modules
+elm-stuff/packages
+elm-stuff/build-artifacts
+sandbox-elm.sublime-project

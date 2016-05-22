@@ -1,0 +1,16 @@
+{
+  "name": "sandbox-elm",
+  "version": "1.0.0",
+  "description": "素振り用",
+  "main": "elm.js",
+  "dependencies": {},
+  "devDependencies": {
+    "elm": "^0.16.0"
+  },
+  "scripts": {
+    "elm": "elm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
