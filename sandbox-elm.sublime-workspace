@@ -1,0 +1,2346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"recei",
+				"receiveDomain"
+			],
+			[
+				"RECei",
+				"RECEIVE_DOMAIN"
+			],
+			[
+				"se",
+				"sessionId"
+			],
+			[
+				"coo",
+				"Cookies"
+			],
+			[
+				"new",
+				"newTask"
+			],
+			[
+				"auth",
+				"authData"
+			],
+			[
+				"pati",
+				"PatientList/"
+			],
+			[
+				"chile",
+				"CHILD_REMOVED"
+			],
+			[
+				"event",
+				"EVENT"
+			],
+			[
+				"fireba",
+				"FIREBASE_URL"
+			],
+			[
+				"fire",
+				"FIREBASE"
+			],
+			[
+				"va",
+				"VALUE"
+			],
+			[
+				"eve",
+				"EVENT"
+			],
+			[
+				"te",
+				"TEXT_FIELD_ID"
+			],
+			[
+				"R",
+				"Route"
+			],
+			[
+				"pa",
+				"PatientGenerator"
+			],
+			[
+				"coffe",
+				"coffeeify"
+			],
+			[
+				"fine",
+				"filename"
+			],
+			[
+				"b",
+				"browserify"
+			],
+			[
+				"handle",
+				"handleUpdateTask"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"fla",
+				"FlatButton"
+			],
+			[
+				"car",
+				"Card"
+			],
+			[
+				"meu",
+				"MenuItem"
+			],
+			[
+				"gri",
+				"GridTile"
+			],
+			[
+				"Gri",
+				"GridTile"
+			],
+			[
+				"text",
+				"TextField"
+			],
+			[
+				"sheet",
+				"sheetId"
+			],
+			[
+				"id",
+				"idList"
+			],
+			[
+				"inter",
+				"interviewSheetIds"
+			],
+			[
+				"shee",
+				"sheetId"
+			],
+			[
+				"in",
+				"interviewSheetIds"
+			],
+			[
+				"hos",
+				"hospitals"
+			],
+			[
+				"cla",
+				"classNames"
+			],
+			[
+				"claa",
+				"className"
+			],
+			[
+				"nw",
+				"newPWConfirm"
+			],
+			[
+				"newpw",
+				"newPWConfirm"
+			],
+			[
+				"me",
+				"MESSAGE"
+			],
+			[
+				"label",
+				"LABEL"
+			],
+			[
+				"clas",
+				"classNames"
+			],
+			[
+				"is",
+				"isAuthChecked"
+			],
+			[
+				"next",
+				"nextProps"
+			],
+			[
+				"component",
+				"componentWillMount"
+			],
+			[
+				"au",
+				"authenticated"
+			],
+			[
+				"get",
+				"getAuthState"
+			],
+			[
+				"si",
+				"SignOut"
+			],
+			[
+				"p",
+				"components/"
+			],
+			[
+				"compo",
+				"componentWillUnmount"
+			],
+			[
+				"LABE",
+				"LABEL_SELECT_PRESCRIPTION_CODE"
+			],
+			[
+				"prop",
+				"props"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"done",
+				"done_ratio"
+			],
+			[
+				"handl",
+				"handleClickPopUpClose"
+			],
+			[
+				"pri",
+				"priority_id"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"assi",
+				"assigned_to_id"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"issue",
+				"issue_statuses"
+			],
+			[
+				"issu",
+				"issueStatusId"
+			],
+			[
+				"newiss",
+				"newIssueDiff"
+			],
+			[
+				"init",
+				"initialIssue"
+			],
+			[
+				"ref",
+				"refs"
+			],
+			[
+				"trask",
+				"trackerIssuesPath"
+			],
+			[
+				"tra",
+				"trackerIssuesPath"
+			],
+			[
+				"cal",
+				"className"
+			],
+			[
+				"lab",
+				"LABEL_SAVE"
+			],
+			[
+				"labe",
+				"LABEL_EDIT"
+			],
+			[
+				"panel",
+				"panelHeading"
+			],
+			[
+				"talk",
+				"talkRows"
+			],
+			[
+				"iss",
+				"IssueStatus/"
+			],
+			[
+				"Issu",
+				"IssueStatus/"
+			],
+			[
+				"aser",
+				"assert"
+			],
+			[
+				"Pati",
+				"PatientGenerator"
+			],
+			[
+				"table",
+				"tableStyle"
+			],
+			[
+				"baci",
+				"basicView"
+			],
+			[
+				"diary",
+				"diaryView"
+			],
+			[
+				"tit",
+				"TITLE_DIARY_LOG"
+			],
+			[
+				"title",
+				"TITLE_PROGRESS_PROGRESS"
+			],
+			[
+				"titl",
+				"TITLE_BASIC_INFO"
+			],
+			[
+				"MEA",
+				"MESSAGE_SELECT_PATIENT"
+			],
+			[
+				"patient",
+				"patientId"
+			],
+			[
+				"loadin",
+				"LOADING"
+			],
+			[
+				"load",
+				"LOADING"
+			],
+			[
+				"pres",
+				"prescriptionCode"
+			],
+			[
+				"newPre",
+				"receiveNewPrescriptionCode"
+			],
+			[
+				"isho",
+				"isHospitalBoxVisible"
+			],
+			[
+				"hospital",
+				"hospital"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"maba",
+				"mbaas-local"
+			],
+			[
+				"mbaa",
+				"mbaas-local"
+			],
+			[
+				"free",
+				"freePrescriptionCode"
+			],
+			[
+				"patien",
+				"patientRawDate"
+			],
+			[
+				"genr",
+				"GENERATE_PATIENT_DATA"
+			],
+			[
+				"page",
+				"PatientGeneratorInstance"
+			],
+			[
+				"Pa",
+				"PatientGenerator"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"han",
+				"handleBlurEmailInput"
+			],
+			[
+				"messa",
+				"MESSAGE_SELECT_PATIENT"
+			],
+			[
+				"selec",
+				"selectedHospitalId"
+			],
+			[
+				"sub",
+				"submitting"
+			],
+			[
+				"sle",
+				"selectedPrescriptionCode"
+			],
+			[
+				"sele",
+				"selectedPatientId"
+			],
+			[
+				"submi",
+				"submitting"
+			],
+			[
+				"submit",
+				"SUBMITTING"
+			],
+			[
+				"ho",
+				"hospitalId"
+			],
+			[
+				"hospi",
+				"hospitalId"
+			],
+			[
+				"sete",
+				"setState"
+			],
+			[
+				"un",
+				"unselectPrescriptionCode"
+			],
+			[
+				"getf",
+				"getfreePrescriptionCodeRow"
+			],
+			[
+				"nopre",
+				"NoPrescriptionCodePatientRows"
+			],
+			[
+				"h",
+				"hId"
+			],
+			[
+				"assign",
+				"AssignPrescriptionCode"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"patietn",
+				"patientTable"
+			],
+			[
+				"pre",
+				"patientRepository"
+			],
+			[
+				"doco",
+				"doctorRepository"
+			],
+			[
+				"fe",
+				"fetchPrescriptionCode"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"css",
+				"cssLoaderConfig"
+			],
+			[
+				"re",
+				"reloadCallback"
+			],
+			[
+				"waitfor",
+				"waitForElementVisible"
+			],
+			[
+				"conso",
+				"console.	console.log()"
+			],
+			[
+				"cu",
+				"currentState"
+			],
+			[
+				"_render",
+				"_renderAfterFetch"
+			],
+			[
+				"render",
+				"_renderAfterFetch"
+			],
+			[
+				"Disa",
+				"DISABLE_CLASS"
+			],
+			[
+				"latest",
+				"latestBtn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".node-version",
+			"settings":
+			{
+				"buffer_size": 7,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/elm-format.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/elm-format.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"asve",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"sy coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"cofee",
+				"Coffee: Fast Compile"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"copy",
+				"Copy File Name"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"subline toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lnter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pat",
+				"File: Copy Path"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new fo",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"ove",
+				"Snippet: Object Value JS"
+			],
+			[
+				"copy  dir",
+				"Copy File Directory"
+			],
+			[
+				"direct",
+				"Insert Directory Relative to Project"
+			],
+			[
+				"editcon",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"r",
+				"File: Rename"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"cop",
+				"Copy File Name"
+			],
+			[
+				"gosub sett",
+				"GoSublime: Default Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"subli sett",
+				"GoSublime: User Settings"
+			],
+			[
+				"sublim tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"copy pat",
+				"Copy Path Relative to Project"
+			],
+			[
+				"coy",
+				"Copy File Name"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"coffe",
+				"Coffee: Lint"
+			],
+			[
+				"coffeelin",
+				"Coffee: Lint"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"cpy",
+				"Copy File Path"
+			],
+			[
+				"sublime setting",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"elm",
+				"Set Syntax: Elm"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"dlete",
+				"File: Delete"
+			],
+			[
+				"rene",
+				"File: Rename"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ne",
+				"File: New File Relative to Current View"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"renema",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"json",
+				"Set Syntax: JSON (Babel)"
+			],
+			[
+				"direc",
+				"Insert Directory Relative to Project"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ave",
+				"Project: Save As"
+			],
+			[
+				"sni",
+				"Snippet: if … fi"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"bew",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"jasminco",
+				"Set Syntax: Jasmine CoffeeScript"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packe list",
+				"Package Control: List Packages"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"doctor",
+				"Insert Directory Relative to Project"
+			],
+			[
+				"sa ve",
+				"Project: Save As"
+			],
+			[
+				"copypt",
+				"Copy Path Relative to Project"
+			],
+			[
+				"synta bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jvasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"copy path",
+				"Copy Path Relative to Project"
+			],
+			[
+				"copy re",
+				"Copy Path Relative to Project"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"ect",
+				"Set Syntax: ECT <<"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ec",
+				"Set Syntax: ECT <%"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"setting ",
+				"Preferences: Settings - Default"
+			],
+			[
+				"cop rela",
+				"Copy Path Relative to Project"
+			],
+			[
+				"deel",
+				"ANF: Delete Current File"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"package insgt",
+				"Package Control: Install Package"
+			],
+			[
+				"lint togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter to",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"insert",
+				"Insert File Path"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"choose linte",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"linter setu",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"choose lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"inter setting ",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"copy pa",
+				"Copy File Path"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ru y",
+				"Set Syntax: Ruby"
+			],
+			[
+				"setting user",
+				"Preferences: Settings - User"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"co",
+				"Copy File Path"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"setting de",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"/Users/hitoshi/.nvm/v0.10.32/bin/jsxhint --help",
+			"/Users/hitoshi/.nvm/v0.10.32/bin/jsxhint",
+			"jsxhint",
+			"$SHELL -l -c '/usr/bin/which linter'",
+			"which linter",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hitoshi/my/sandbox-elm"
+	],
+	"file_history":
+	[
+		"/Users/hitoshi/my/job/CureApp/smoking_cessation_domain/src/domain/talk-repository.coffee",
+		"/Users/hitoshi/my/job/CureApp/smoking_cessation_domain/test/spec/domain/talk-repository.coffee",
+		"/Users/hitoshi/my/job/CureApp/smoking_cessation_domain/doc/reference/files/_Users_hitoshi_my_job_CureApp_smoking_cessation_domain_src_domain_talk-repository.coffee.html",
+		"/Users/hitoshi/my/job/CureApp/smoking_cessation_domain/sc-domain.sublime-project",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/components/DiaryLog/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/components/Patient/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/actions/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/reducers/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/store/initialState.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/containers/App/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/main.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/domain/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/utils/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/config/production.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/config/local.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/domain-selector.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/spec/lib/loopback-runner.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/api/login.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/server.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/pages/patient.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/filters/authenticate.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/tools/README.md",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/components/PatientList/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/spec/react/components/PatientList.test.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/dr.sublime-project",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/a.sublime-project",
+		"/Users/hitoshi/my/job/toyoshi/tamago/.gitignore",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/TaskList/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/reducers/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/actions/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/TaskItem/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/Tasks/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/TasksForm/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/tamago.sublime-project",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/store/initialState.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/test/setup.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/test/reducers/index.test.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/package.json",
+		"/Users/hitoshi/my/job/CureApp/admin/spec/components/Home.test.js",
+		"/Users/hitoshi/my/job/CureApp/admin/admin.sublime-project",
+		"/Users/hitoshi/my/job/CureApp/admin/src/containers/App/index.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/react/components/DebugPrint/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/webpack.config.js",
+		"/Users/hitoshi/.ghq/github.com/Weezlo/react-todo/package.json",
+		"/Users/hitoshi/.ghq/github.com/Weezlo/react-todo/TodoItem.js",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/src/core/tasks/actions.js",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/src/components/tasks/tasks.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/containers/App/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/Header/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/.node-version",
+		"/Users/hitoshi/my/job/CureApp/doctor/nightwatch.json",
+		"/Users/hitoshi/my/job/CureApp/doctor/package.json",
+		"/Users/hitoshi/my/job/CureApp/admin/webpack.config.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/SignIn/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/SignOut/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/.babelrc",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/DiaryLog/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/package.json",
+		"/Users/hitoshi/my/job/CureApp/admin/test/unit/reducers/index.test.js",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/CreateNewPatient/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/.babelrc",
+		"/Users/hitoshi/my/job/CureApp/admin/src/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/BindPrescriptionCode/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/UpdatePassword/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/Instruction/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/TalkLog/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/Progress/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/Babel.md",
+		"/Users/hitoshi/my/job/CureApp/admin/spec/components/CreateNewPatient.test.js",
+		"/Users/hitoshi/my/job/CureApp/admin/spec/setup.js",
+		"/Users/hitoshi/my/job/CureApp/admin/src/utils/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/main.js",
+		"/Users/hitoshi/my/job/CureApp/admin/Test.md",
+		"/Users/hitoshi/my/job/CureApp/admin/Webpack.md",
+		"/Users/hitoshi/my/job/CureApp/admin/spec/components/UpdatePassword.test.js",
+		"/Users/hitoshi/my/job/CureApp/admin/spec/css-setup.js",
+		"/Users/hitoshi/my/job/CureApp/admin/.gitignore",
+		"/Users/hitoshi/my/job/CureApp/admin/src/components/Patient/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/client/components/UpdatePassword/index.js",
+		"/Users/hitoshi/my/job/agileware-jp/redmine_task_kanban/assets/stylesheets/task_kanban.css",
+		"/Users/hitoshi/my/job/CureApp/admin/client/store/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/client/store/initialState.js",
+		"/Users/hitoshi/my/job/CureApp/admin/mbaas-local/loopback-runner.coffee",
+		"/Users/hitoshi/my/job/CureApp/admin/Routing.md",
+		"/Users/hitoshi/my/job/CureApp/admin/client/components/BindPrescriptionCode/style.css",
+		"/Users/hitoshi/my/job/CureApp/admin/client/components/BindPrescriptionCode/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/client/containers/App/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/client/domain/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/constants/index.js",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/components/Header/style.css",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/index.html",
+		"/Users/hitoshi/my/job/toyoshi/tamago/src/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/client/utils/patientGenerator.js",
+		"/Users/hitoshi/my/job/CureApp/admin/client/utils/index.js",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/webpack.base.js",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/webpack.test.js",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/src/store.js",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/css/cureApp.css",
+		"/Users/hitoshi/my/job/CureApp/doctor/client/css/_patient-detail.css",
+		"/Users/hitoshi/my/job/CureApp/doctor/views/partials/patient-detail/section/patient-info-main.ect",
+		"/Users/hitoshi/my/job/CureApp/doctor/views/pages/patient-detail.ect",
+		"/Users/hitoshi/my/job/CureApp/doctor/views/partials/patient-detail/section/set-interview-sheet.ect",
+		"/Users/hitoshi/my/job/CureApp/doctor/views/partials/patient-detail/section/patient-info-main-tab-pane-data.ect",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/config/development.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/src/config/index.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/doc/master/assets/vendor/prettify/CHANGES.html",
+		"/Users/hitoshi/my/job/CureApp/doctor/views/partials/inputs/hospital-profile.ect",
+		"/Users/hitoshi/my/job/CureApp/doctor/views/pages/show_hospital_profile.ect",
+		"/Users/hitoshi/my/job/CureApp/doctor/interview-sheet.swp",
+		"/Users/hitoshi/my/job/CureApp/admin/client/components/UpdatePassword/style.css",
+		"/Users/hitoshi/my/job/CureApp/admin/client/components/CreateNewPatient/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/client/components/Patient/index.js",
+		"/Users/hitoshi/my/job/CureApp/admin/mbaas-local/data/patient.coffee",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/src/components/tasks/task-form.js",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/src/components/root.js",
+		"/Users/hitoshi/.ghq/github.com/r-park/todo-react-redux/test/utils/add-data-to-firebase.js",
+		"/Users/hitoshi/Desktop/d/spec/domain/hospital.coffee",
+		"/Users/hitoshi/Desktop/d/src/domain/interview-sheet.coffee",
+		"/Users/hitoshi/Desktop/d/spec/domain/interview-sheet-repository.coffee",
+		"/Users/hitoshi/Desktop/d/spec/domain/interview-sheet-input/question-factory.coffee",
+		"/Users/hitoshi/Desktop/d/src/domain/interview-sheet-input/question-factory.coffee",
+		"/Users/hitoshi/Desktop/d/src/domain/hospital-repository.coffee",
+		"/Users/hitoshi/Desktop/d/src/domain/hospital.coffee",
+		"/Users/hitoshi/Desktop/d/src/domain/patient-repository.coffee",
+		"/Users/hitoshi/Desktop/d/src/domain/doctor-repository.coffee",
+		"/Users/hitoshi/Desktop/d/src/domain/prescription-code-repository.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/spec/data/patient.coffee",
+		"/Users/hitoshi/my/job/CureApp/doctor/e2e/patient/patient-finish-exam.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"client/react/",
+			"",
+			"src/pages",
+			"srec/pages",
+			"",
+			"src/",
+			"*.coffee",
+			"",
+			"src/",
+			"",
+			"src/",
+			"",
+			"<current file>",
+			"",
+			"/Users/hitoshi/my/job/CureApp/doctor/views",
+			"spec",
+			"",
+			"spec/data",
+			"spec/",
+			"",
+			"src",
+			"",
+			"src",
+			"",
+			"action-types.js",
+			"action-type.js",
+			"",
+			"<open files>",
+			"webpack*",
+			"",
+			"*css",
+			"",
+			"<current file>",
+			"",
+			"/Users/hitoshi/my/job/agileware-jp/redmine_task_kanban/app",
+			"",
+			"/Users/hitoshi/my/job/CureApp/admin/client",
+			"",
+			"/Users/hitoshi/my/job/agileware-jp/redmine_task_kanban/app",
+			"/Users/hitoshi/my/job/agileware-jp/redmine_task_kanban/config",
+			"",
+			"admin/client",
+			"src/",
+			"",
+			"/Users/hitoshi/my/job/agileware-jp/redmine_task_kanban/src/react",
+			"src/",
+			"/Users/hitoshi/my/job/agileware-jp/app2/doc",
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"client/",
+			"",
+			"/Users/hitoshi/my/job/CureApp/admin/mbaas-local",
+			"",
+			"<open files>",
+			"",
+			"client/",
+			"",
+			"client/src",
+			"",
+			"client/src",
+			"client/crc",
+			"",
+			"client/src",
+			"",
+			"src/",
+			"",
+			"<open files>",
+			"*css",
+			"",
+			"*css",
+			"views/",
+			"client/css/",
+			"",
+			"<open files>",
+			"",
+			"/Users/hitoshi/my/job/CureApp/doctor/client/css",
+			"client/css",
+			"",
+			"/Users/hitoshi/my/job/CureApp/doctor/views/mail",
+			"",
+			"e2e/",
+			"",
+			"e2e/",
+			"",
+			"e2e/",
+			"e2e",
+			"",
+			"e2e/",
+			"",
+			"e2e/",
+			"",
+			"e2e/",
+			"",
+			"e2e/",
+			"",
+			"spec/",
+			"e2e/",
+			"",
+			"e2e/",
+			"e2e",
+			"e2e/",
+			"",
+			"e2e/",
+			"",
+			"e2e/",
+			"",
+			"/Users/hitoshi/my/job/CureApp/doctor/spec/api/",
+			"/Users/hitoshi/my/job/CureApp/doctor/spec/api/d*.coffee",
+			"/Users/hitoshi/my/job/CureApp/doctor/spec/api/d*",
+			"/Users/hitoshi/my/job/CureApp/doctor/spec/api",
+			"",
+			"e2e/",
+			"",
+			"src/",
+			"",
+			"e2e/",
+			"e2e",
+			"",
+			"/Users/hitoshi/my/job/CureApp/doctor/src",
+			"",
+			"spec/",
+			"",
+			"/Users/hitoshi/my/job/CureApp/doctor/",
+			"/Users/hitoshi/my/job/CureApp/doctor/e2e",
+			"/Users/hitoshi/my/job/CureApp/doctor/spec"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"spec-init",
+			"loopback-launcher",
+			"yamadaFacade",
+			"talks",
+			"thisTalk",
+			"getOlder",
+			"RANGE_2_WEEKS",
+			"diary",
+			"fetchDiary",
+			"hasPrescriptionCode",
+			"receiveProgress",
+			"receiveDiary",
+			"receivePrescriptionCode",
+			"RANGE_1_MONTH",
+			"RANGE_2_WEEKS",
+			"diary",
+			"RANGE_2_WEEKS",
+			"Receive",
+			"receive",
+			"receiveDiary",
+			"receivePrescriptionCode",
+			"fetchProgress",
+			"patient",
+			"fetchProgress",
+			"talkRepository",
+			"fetchDiary",
+			"fetchPrescriptionCode",
+			"getPatientLogData",
+			"id",
+			"Patient",
+			"patient",
+			"getPrescriptionCode",
+			"domain",
+			"xxx",
+			"getPrescriptionCode",
+			"hasPrescriptionCode",
+			"domain",
+			"prescrip",
+			"domain",
+			"\n\nimport dom",
+			"getPrescriptionCode",
+			"fetchDiary",
+			"prescription",
+			"diaryRepository",
+			"(domain",
+			"if(",
+			"getPrescriptionCode",
+			"getPatientLogData",
+			"diaryRepository",
+			"patientRepository",
+			"hospitalRepository",
+			"doctorRepository",
+			"hospitalRepository",
+			"doctorRepository",
+			"    const { dispatch } = this.props",
+			"diaryRepository",
+			"fetchDiary",
+			"fetchPrescriptionCode",
+			"fetchPatients",
+			"fetchDoctors",
+			"doctorRepository",
+			"setSessionId",
+			"loopback_admin_access_token",
+			"SESSION_ID_KEY",
+			"setSessionCookie",
+			"domain",
+			"ccessT",
+			"ccess",
+			"Token",
+			"SessionId",
+			"setSessionId",
+			"domain.set",
+			"domain.",
+			"domain.set",
+			"Token",
+			".set",
+			"set",
+			"domain",
+			".set",
+			"token",
+			"keys",
+			"startDataSync",
+			"newTask",
+			"successAddTask",
+			"SUCCESS_ADD_TASK",
+			"successSyncTask",
+			"SUCCESS_SYNC_TASK",
+			"startDataSync",
+			"'update-title'",
+			"SUCCESS_UPDATE_TASK",
+			"oldState",
+			"START_EDIT_TASK",
+			"SUCCESS_DELETE_TASK",
+			"  const ",
+			"SUCCESS_SYNC_TASK",
+			"newState",
+			"initialState",
+			"SUCCESS_ADD_TASK",
+			"initialState",
+			"SUCCESS_ADD_TASK",
+			"{)",
+			"() => {",
+			"it'",
+			"  ",
+			"SIGN_OUT_SUCCESS",
+			"this.",
+			"ActionDelete",
+			"actiondelete",
+			"callback",
+			"registerListeners",
+			"child_",
+			"childe_add",
+			" = ",
+			"export const FIREBASE_EVENT_",
+			"childSnapshot",
+			"const",
+			"export",
+			"^'",
+			"'",
+			"^",
+			"', function",
+			".on('",
+			"(",
+			"startDataSync",
+			"initWithSavedData",
+			"successSyncTask",
+			"setDataSync",
+			"once"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"agent()\n        .",
+			"agent().login",
+			"",
+			"agent.login",
+			"Step",
+			"Step1",
+			"../config.coffee",
+			"  ",
+			"extends ../old-layout",
+			"../old-layout",
+			"    ",
+			"  ",
+			"'",
+			"",
+			"'",
+			"', function(e) {console.log('e', e.type)};",
+			"'",
+			"pm",
+			"am",
+			"'",
+			" pm",
+			" am",
+			"",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".node-version",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 112.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 491.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "sandbox-elm.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"global",
+				"test/lib/global.js"
+			],
+			[
+				"reacttalk",
+				"client/react/components/TalkLog/index.js"
+			],
+			[
+				"patientindex",
+				"client/react/components/Patient/index.js"
+			],
+			[
+				"reactdiary",
+				"client/react/components/DiaryLog/index.js"
+			],
+			[
+				"action",
+				"client/react/actions/index.js"
+			],
+			[
+				"reducer",
+				"client/react/reducers/index.js"
+			],
+			[
+				"container",
+				"client/react/containers/App/index.js"
+			],
+			[
+				"intial",
+				"client/react/store/initialState.js"
+			],
+			[
+				"main",
+				"client/react/main.js"
+			],
+			[
+				"actionindex",
+				"client/react/actions/index.js"
+			],
+			[
+				"reactdomain",
+				"client/react/domain/index.js"
+			],
+			[
+				"reactmain",
+				"client/react/main.js"
+			],
+			[
+				"localcoffe",
+				"src/config/local.coffee"
+			],
+			[
+				"prodi",
+				"src/config/production.coffee"
+			],
+			[
+				"srcpagepatie",
+				"src/pages/patient.coffee"
+			],
+			[
+				"lo",
+				"src/api/login.coffee"
+			],
+			[
+				"server",
+				"src/server.coffee"
+			],
+			[
+				"patientlist",
+				"client/react/components/PatientList/index.js"
+			],
+			[
+				"patentlist",
+				"spec/react/components/PatientList.test.js"
+			],
+			[
+				"reactcontainer",
+				"client/react/containers/App/index.js"
+			],
+			[
+				"tasks",
+				"src/components/Tasks/index.js"
+			],
+			[
+				"task",
+				"src/components/TaskList/index.js"
+			],
+			[
+				"taskitem",
+				"src/components/TaskItem/index.js"
+			],
+			[
+				"redu",
+				"src/reducers/index.js"
+			],
+			[
+				"setup",
+				"test/setup.js"
+			],
+			[
+				"initi",
+				"src/store/initialState.js"
+			],
+			[
+				"initial",
+				"src/store/initialState.js"
+			],
+			[
+				"testredu",
+				"test/reducers/index.test.js"
+			],
+			[
+				"srcredu",
+				"src/reducers/index.js"
+			],
+			[
+				"containerindex",
+				"src/containers/App/index.js"
+			],
+			[
+				"containe",
+				"client/react/containers/App/index.js"
+			],
+			[
+				"configjson",
+				"config.json"
+			],
+			[
+				"taskli",
+				"src/components/TaskList/index.js"
+			],
+			[
+				"tasklist",
+				"src/components/TaskList/index.js"
+			],
+			[
+				"actioninde",
+				"src/actions/index.js"
+			],
+			[
+				"taskindex",
+				"src/components/TaskItem/index.js"
+			],
+			[
+				"header",
+				"src/components/Header/index.js"
+			],
+			[
+				"srcindex",
+				"src/index.js"
+			],
+			[
+				"containerinde",
+				"src/containers/App/index.js"
+			],
+			[
+				"clientreact",
+				"client/react/main.js"
+			],
+			[
+				"clireactconta",
+				"client/react/containers/App/index.js"
+			],
+			[
+				"config",
+				"config.json"
+			],
+			[
+				"srcpagespati",
+				"src/pages/patient.coffee"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"signin",
+				"src/components/SignIn/index.js"
+			],
+			[
+				"taskform",
+				"src/components/TasksForm/index.js"
+			],
+			[
+				"sign",
+				"src/components/SignOut/index.js"
+			],
+			[
+				"diarlog",
+				"src/components/DiaryLog/index.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"createew",
+				"src/components/CreateNewPatient/index.js"
+			],
+			[
+				"talklog",
+				"src/components/TalkLog/index.js"
+			],
+			[
+				"diary",
+				"src/components/DiaryLog/index.js"
+			],
+			[
+				"babelrc",
+				".babelrc"
+			],
+			[
+				"diarylog",
+				"src/components/DiaryLog/index.js"
+			],
+			[
+				"srcindex.j",
+				"src/index.js"
+			],
+			[
+				"uti",
+				"src/utils/index.js"
+			],
+			[
+				"utilinde",
+				"src/utils/index.js"
+			],
+			[
+				"createnewpatiinde",
+				"src/components/CreateNewPatient/index.js"
+			],
+			[
+				"createnew",
+				"spec/components/CreateNewPatient.test.js"
+			],
+			[
+				"utilindex",
+				"src/utils/index.js"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"webpac",
+				"webpack.config.js"
+			],
+			[
+				"update",
+				"client/components/UpdatePassword/index.js"
+			],
+			[
+				"rducer",
+				"src/reducers/index.js"
+			],
+			[
+				"tasl",
+				"src/components/tasks/task-list.js"
+			],
+			[
+				"clieinde",
+				"client/index.js"
+			],
+			[
+				"loopb",
+				"mbaas-local/loopback-runner.coffee"
+			],
+			[
+				"initia",
+				"client/store/initialState.js"
+			],
+			[
+				"domain",
+				"client/domain/index.js"
+			],
+			[
+				"routin",
+				"Routing.md"
+			],
+			[
+				"consta",
+				"src/constants/index.js"
+			],
+			[
+				"head",
+				"src/components/Header/index.js"
+			],
+			[
+				"signout",
+				"src/components/SignOut/index.js"
+			],
+			[
+				"heder",
+				"src/components/Header/index.js"
+			],
+			[
+				"hea",
+				"src/components/Header/index.js"
+			],
+			[
+				"css",
+				"src/components/Header/style.css"
+			],
+			[
+				"taskfrm",
+				"src/components/TasksForm/index.js"
+			],
+			[
+				"constan",
+				"src/constants/index.js"
+			],
+			[
+				"taskl",
+				"src/components/TaskList/index.js"
+			],
+			[
+				"rcindehtml",
+				"src/index.html"
+			],
+			[
+				"set",
+				"views/partials/patient-detail/section/set-interview-sheet.ect"
+			],
+			[
+				"datapane",
+				"views/partials/patient-detail/section/patient-info-main-tab-pane-data.ect"
+			],
+			[
+				"curea",
+				"client/css/cureApp.css"
+			],
+			[
+				"patientde",
+				"client/css/_patient-detail.css"
+			],
+			[
+				"cure",
+				"client/css/cureApp.css"
+			],
+			[
+				"patientinfomain",
+				"views/partials/patient-detail/section/patient-info-main.ect"
+			],
+			[
+				"viewpatientdetai",
+				"views/pages/patient-detail.ect"
+			],
+			[
+				"patientdeti",
+				"client/css/_patient-detail.css"
+			],
+			[
+				"viewsdatapane",
+				"views/partials/patient-detail/section/patient-info-main-tab-pane-data.ect"
+			],
+			[
+				"patientdeta",
+				"client/css/_patient-detail.css"
+			],
+			[
+				"patientdetail",
+				"client/css/_patient-detail.css"
+			],
+			[
+				"setin",
+				"views/partials/patient-detail/section/set-interview-sheet.ect"
+			],
+			[
+				"srcpagepati",
+				"src/pages/patient.coffee"
+			],
+			[
+				"setintervie",
+				"views/partials/patient-detail/section/set-interview-sheet.ect"
+			],
+			[
+				"set-interview-sheet.ect",
+				"views/partials/patient-detail/section/set-interview-sheet.ect"
+			],
+			[
+				"/hospital-profile.ect",
+				"views/partials/inputs/hospital-profile.ect"
+			],
+			[
+				"srcpagepatient.coffee",
+				"src/pages/patient.coffee"
+			],
+			[
+				"inputhospi",
+				"views/partials/inputs/hospital-profile.ect"
+			],
+			[
+				"show_hospital_profile.ect",
+				"views/pages/show_hospital_profile.ect"
+			],
+			[
+				"style",
+				"client/components/UpdatePassword/style.css"
+			],
+			[
+				"styel",
+				"client/components/BindPrescriptionCode/style.css"
+			],
+			[
+				"new",
+				"client/components/CreateNewPatient/index.js"
+			],
+			[
+				"compati",
+				"client/components/Patient/index.js"
+			],
+			[
+				"patient",
+				"mbaas-local/data/patient.coffee"
+			],
+			[
+				"apidoctor",
+				"src/api/doctor.coffee"
+			],
+			[
+				"act",
+				"src/actions/index.js"
+			],
+			[
+				"interviewsheet.coff",
+				"src/domain/interview-sheet.coffee"
+			],
+			[
+				"hospitalrepo",
+				"src/domain/hospital-repository.coffee"
+			],
+			[
+				"hospital",
+				"src/domain/hospital.coffee"
+			],
+			[
+				"pane",
+				"views/partials/patient-detail/section/patient-info-main-tab-pane-data.ect"
+			],
+			[
+				"specdatapati",
+				"spec/data/patient.coffee"
+			],
+			[
+				"setinter",
+				"views/partials/patient-detail/section/set-interview-sheet.ect"
+			],
+			[
+				"night",
+				"nightwatch.json"
+			],
+			[
+				"srcpagepatien",
+				"src/pages/patient.coffee"
+			],
+			[
+				"store",
+				"src/store/index.js"
+			],
+			[
+				"interviewsheetserve",
+				"src/domain/interview-sheet-service.coffee"
+			],
+			[
+				"interviewsheetserv",
+				"src/domain/interview-sheet-service.coffee"
+			],
+			[
+				"choicelist",
+				"src/domain/interview-sheet-input/choice-list.coffee"
+			],
+			[
+				"interviewsheeque",
+				"src/domain/interview-sheet-input/question.coffee"
+			],
+			[
+				"srcintes",
+				"src/domain/interview-sheet-answer.coffee"
+			],
+			[
+				"panedata",
+				"views/partials/patient-detail/section/patient-info-main-tab-pane-data.ect"
+			],
+			[
+				"storeinde",
+				"client/store/index.js"
+			],
+			[
+				"reducerinde",
+				"client/reducers/index.js"
+			],
+			[
+				"appindex",
+				"client/containers/App/index.js"
+			],
+			[
+				"srcinterviewsheeserve",
+				"src/domain/interview-sheet-service.coffee"
+			],
+			[
+				"srcinterviewsheetanswer",
+				"src/domain/interview-sheet-answer.coffee"
+			],
+			[
+				"pagespatient",
+				"src/pages/patient.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 494.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
