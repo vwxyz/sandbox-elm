@@ -38,4 +38,4 @@ git config --list --local
 switch-ssh -p vwxyz
 ```
 
-`direnv allow .`
+`direnv allow .`を一度だけ実行
